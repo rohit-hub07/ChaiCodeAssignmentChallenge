@@ -1,0 +1,13 @@
+body{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background-color: black !important;  
+  margin-top: 15% !important;
+}
+
+
+#shareBtn{
+  margin-top: 5px !important;
+}
+
